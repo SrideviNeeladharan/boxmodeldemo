@@ -6,7 +6,7 @@ header img{
 }
 /*more specific takes precedence*/
 a{
-  text-decoration: :none;
+  text-decoration:none;
 }
 nav a{
   text-decoration: line-through;
